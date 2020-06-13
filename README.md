@@ -9,6 +9,6 @@
 6. ツールバーに表示されている赤い円とテキストファイルのアイコンをクリックする
 7. 設定画面で指定したフォルダに同名のwav/txtファイルが生成される
 
-##Download
+## Download
 
 https://github.com/yukimaru73/Plugin_Bouyomichan_wav_and_txt/releases/tag/0.1
