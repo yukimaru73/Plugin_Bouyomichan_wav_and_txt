@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin_Bouyomichan_wav_and_txt", "Plugin_Bouyomichan_wav_and_txt\Plugin_Bouyomichan_wav_and_txt.csproj", "{93FFE138-5F49-49FC-AF8F-61386DBED8CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93FFE138-5F49-49FC-AF8F-61386DBED8CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FFE138-5F49-49FC-AF8F-61386DBED8CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93FFE138-5F49-49FC-AF8F-61386DBED8CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FFE138-5F49-49FC-AF8F-61386DBED8CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64791ECC-B102-414E-8EEF-AD6881FCEACA}
+	EndGlobalSection
+EndGlobal
